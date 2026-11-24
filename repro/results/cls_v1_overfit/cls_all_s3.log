@@ -1,0 +1,321 @@
+Total Number of Trainable Parameters: 2,322,961
+Epoch: [0/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.09     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.04     
+Epoch: [1/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.03     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.03     
+Epoch: [2/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.03     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [3/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.02     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [4/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.02     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [5/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.02     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [6/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.02     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [7/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.02     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [8/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.02     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [9/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.02     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [10/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.02     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [11/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.02     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [12/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.02     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [13/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.02     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [14/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.02     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [15/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [16/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [17/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [18/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [19/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [20/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [21/299]
+    train: label N 90 Accuracy 0.99      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [22/299]
+    train: label N 90 Accuracy 0.99      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [23/299]
+    train: label N 90 Accuracy 0.99      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [24/299]
+    train: label N 90 Accuracy 0.99      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [25/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [26/299]
+    train: label N 90 Accuracy 0.99      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.03     
+Epoch: [27/299]
+    train: label N 90 Accuracy 0.99      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [28/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.02     
+Epoch: [29/299]
+    train: label N 90 Accuracy 0.99      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.02     
+Epoch: [30/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.03     
+Epoch: [31/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.98      F1 0.99      Loss 0.03     
+Epoch: [32/299]
+    train: label N 90 Accuracy 0.99      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.03     
+Epoch: [33/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.04     
+Epoch: [34/299]
+    train: label N 90 Accuracy 0.99      F1 0.99      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [35/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.03     
+Epoch: [36/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.01     
+Epoch: [37/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.01     
+Epoch: [38/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.01     
+Epoch: [39/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.03     
+Epoch: [40/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.03     
+Epoch: [41/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.98      F1 1.00      Loss 0.03     
+Epoch: [42/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.01     
+Epoch: [43/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.03     
+Epoch: [44/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [45/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.98      F1 1.00      Loss 0.03     
+Epoch: [46/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.98      F1 0.99      Loss 0.02     
+Epoch: [47/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.98      F1 0.99      Loss 0.03     
+Epoch: [48/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.98      F1 1.00      Loss 0.02     
+Epoch: [49/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [50/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [51/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.04     
+Epoch: [52/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.03     
+Epoch: [53/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [54/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.98      F1 1.00      Loss 0.04     
+Epoch: [55/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.98      F1 0.99      Loss 0.02     
+Epoch: [56/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [57/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.04     
+Epoch: [58/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [59/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [60/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.03     
+Epoch: [61/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.04     
+Epoch: [62/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.98      F1 1.00      Loss 0.03     
+Epoch: [63/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.98      F1 1.00      Loss 0.02     
+Epoch: [64/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [65/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [66/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.03     
+Epoch: [67/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.03     
+Epoch: [68/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.01     
+Epoch: [69/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.98      F1 1.00      Loss 0.02     
+Epoch: [70/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.01     
+Epoch: [71/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.03     
+Epoch: [72/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.03     
+Epoch: [73/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.03     
+Epoch: [74/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.03     
+Epoch: [75/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.04     
+Epoch: [76/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.04     
+Epoch: [77/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.03     
+Epoch: [78/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.03     
+Epoch: [79/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [80/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.01     
+Epoch: [81/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.01     
+Epoch: [82/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.04     
+Epoch: [83/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.03     
+Epoch: [84/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.04     
+Epoch: [85/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.04     
+Epoch: [86/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.03     
+Epoch: [87/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [88/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.02     
+Epoch: [89/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.02     
+Epoch: [90/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.02     
+Epoch: [91/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.04     
+Epoch: [92/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [93/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.05     
+Epoch: [94/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.06     
+Epoch: [95/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.01     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.01     
+Epoch: [96/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.04     
+Epoch: [97/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.03     
+Epoch: [98/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.04     
+Epoch: [99/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.04     
+Epoch: [100/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.04     
+Epoch: [101/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.05     
+Epoch: [102/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.02     
+Epoch: [103/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.03     
+Epoch: [104/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 0.99      Loss 0.04     
+Epoch: [105/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     
+ evaluate: label N 10 Accuracy 0.99      F1 1.00      Loss 0.03     
+Epoch: [106/299]
+    train: label N 90 Accuracy 0.98      F1 1.00      Loss 0.00     /tmp/tmp5grqpq5i: line 3: 30169 Terminated              python roost_train.py --task cls --seed 3 --data all

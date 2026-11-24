@@ -1,0 +1,23 @@
+# conda env create -f environment.yml && conda activate ecw
+# torch cu118 wheels run on NVIDIA drivers >= 450 (tested on a CUDA 11.7 driver, RTX 3080).
+# For a CPU-only machine, change the extra index URL to https://download.pytorch.org/whl/cpu
+# and the torch pin to torch==2.4.1.
+name: ecw
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu118
+      - torch==2.4.1+cu118
+      - numpy==2.4.6
+      - pandas==2.3.3
+      - scipy==1.17.1
+      - scikit-learn==1.9.1
+      - matplotlib==3.11.2
+      - pymatgen==2026.10.24
+      - matminer==0.10.1
+      - optuna==5.1.0
+      # Roost (aviary), pinned to the commit used for the results in repro/README.md
+      - aviary-models @ git+https://github.com/CompRhys/aviary@3f4db21c2b807ebe993f02d8ba13aafbdd7e07a1
